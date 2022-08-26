@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/eoncyrus"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="eoncyrus" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eoncyrus&show_icons=true&locale=en&layout=compact" alt="eoncyrus" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eoncyrus&show_icons=true&locale=en&layout=compact" alt="eoncyrus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eoncyrus&show_icons=true&locale=en" alt="eoncyrus" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eoncyrus&show_icons=true&locale=en" alt="eoncyrus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eoncyrus&" alt="eoncyrus" /></p>
